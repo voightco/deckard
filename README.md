@@ -18,6 +18,19 @@
 1. Git clone this repository
 2. Open the _deckard_ folder, and double-click `deckard.alfredappearance`
 
+## Slack
+![Slack Dark Theme](./docs/slack.jpg)
+
+### Install
+
+1. Navigate to `preferences` (click _workspace_ name in the top)
+2. Select `themes` in the sidebar
+3. Paste the following values at the bottom of the page:
+
+```
+#000000,#000000,#FFFFFF,#000000,#000000,#FFFFFF,#FFFFFF,#FFFFFF
+```
+
 ## License
 
 [MIT][license] © [Danny de Vries][author]
