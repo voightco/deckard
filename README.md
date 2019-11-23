@@ -4,11 +4,14 @@
 
 <em>Matte black UI and syntax dark themes for replicants</em>
 
+<a href="#alfred">Alfred</a> |
+<a href="#slack">Slack</a> 
+
 </div>
 
 ## Intro
 
-**Deckard** is a collection of user interface and syntax themes for web and MacOS applications. Currently for [Alfred](#alfred) and more to come.
+**Deckard** is a collection of user interface and syntax themes for web and MacOS applications. 
 
 ## Alfred
 ![Alfred Dark Theme](./docs/alfred.jpg)
@@ -31,9 +34,17 @@
 #000000,#000000,#FFFFFF,#000000,#000000,#FFFFFF,#FFFFFF,#FFFFFF
 ```
 
+## Support
+
+I believe in making resources and products public and free (as in freedom, not free as in free frappuccinos) so people can build upon them. If you like my resources and products you can consider [supporting me][support].
+
+Made with 🤍 by [Danny de Vries][author] and [contributors][contributors].
+
 ## License
 
 [MIT][license] © [Danny de Vries][author]
 
 [author]: https://github.com/dandevri
 [license]: license
+[contributors]: https://github.com/voightco/deckard/graphs/contributors
+[support]: https://www.dandevri.es/support/
